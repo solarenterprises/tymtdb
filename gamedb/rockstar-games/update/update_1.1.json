@@ -1,0 +1,27 @@
+{
+    "version": "1.1",
+    "changelog": "Bug fixes and improved graphics.",
+    "release_date": "2025-03-10",
+    "requiresBaseGame": true,
+    "patchFiles": [
+      "GTA2/data/game_patch.dat",
+      "GTA2/data/updated_textures.dat",
+      "GTA2/gta2.exe"
+    ],
+    "backupFiles": [
+      "GTA2/gta2.exe"
+    ],
+    "platforms": {
+      "windows_amd64": {
+        "name": "GTA2 Update v1.1",
+        "installSize": "50MB",
+        "external_url": "magnet:?xt=urn:btih:update-1.1-hash&dn=gta2-update1.1"
+      },
+      "linux_amd64": {
+        "name": "GTA2 Update v1.1",
+        "installSize": "55MB",
+        "external_url": "magnet:?xt=urn:btih:update-1.1-linux-hash&dn=gta2-update1.1"
+      }
+    }
+  }
+  

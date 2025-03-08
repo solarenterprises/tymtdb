@@ -1,0 +1,51 @@
+{
+    "_id": "gta2",
+    "name": "GTA 2",
+    "short_description": "A classic open-world game by Rockstar Games.",
+    "description": "Experience the iconic top-down view action with crime and chaos.",
+    "tags": ["RPG", "Action", "Open-World"],
+    "type": "native",
+    "gallery": [
+      "gamesdb/rockstar-games/gta2/assets/image1.webp",
+      "gamesdb/rockstar-games/gta2/assets/image2.webp",
+      "gamesdb/rockstar-games/gta2/assets/image3.webp"
+    ],
+    "price": 0.00,
+    "dlcs": [
+      {
+        "id": "gta2-dlc1",
+        "name": "GTA 2 Expansion Pack",
+        "price": 5.99,
+        "gameFile": "gamesdb/rockstar-games/gta2/dlc/dlc1.json"
+      }
+    ],
+    "updates": [
+      {
+        "version": "1.1",
+        "changelog": "Bug fixes and improved graphics.",
+        "release_date": "2025-03-10",
+        "gameFile": "gamesdb/rockstar-games/gta2/update/update_1.1.json"
+      }
+    ],
+    "platforms": {
+      "windows_amd64": {
+        "name": "GTA2",
+        "executable": "GTA2/gta2.exe",
+        "installSize": "404MB",
+        "external_url": "magnet:?xt=urn:btih:60672151faed81357b1659c8ead665da4d1ff3da&dn=gta2&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tymt.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tymt.com%2Fannounce&tr=http%3A%2F%2Ftracker.tymt.com%2Fannounce&tr=udp%3A%2F%2Ftracker2.tymt.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker2.tymt.com%2Fannounce&tr=udp%3A%2F%2Ftracker3.tymt.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker3.tymt.com%2Fannounce"
+      },
+      "linux_amd64": {
+        "name": "GTA2",
+        "executable": "",
+        "installSize": "",
+        "external_url": "magnet:?xt=null"
+      }
+    },
+    "system_requirements": {
+      "cpu": "Intel Pentium 4 @ 2.0 Ghz or Greater",
+      "gpu": "Nvidia or AMD (2GB recommended)",
+      "disk": "500MB+ free space",
+      "memory": "8GB+ RAM"
+    }
+  }
+  

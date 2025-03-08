@@ -1,0 +1,26 @@
+{
+    "id": "gta2-dlc1",
+    "name": "GTA 2 Expansion Pack",
+    "description": "New missions, vehicles, and weapons!",
+    "release_date": "2025-03-15",
+    "price": 5.99,
+    "requiresBaseGame": true,
+    "dlcFiles": [
+      "GTA2/DLC/expansion_missions.dat",
+      "GTA2/DLC/new_cars.dat",
+      "GTA2/DLC/weapons.dat"
+    ],
+    "platforms": {
+      "windows_amd64": {
+        "name": "GTA2 DLC Expansion Pack",
+        "installSize": "150MB",
+        "external_url": "magnet:?xt=urn:btih:dlc1-hash&dn=gta2-dlc1"
+      },
+      "linux_amd64": {
+        "name": "GTA2 DLC Expansion Pack",
+        "installSize": "160MB",
+        "external_url": "magnet:?xt=urn:btih:dlc1-linux-hash&dn=gta2-dlc1"
+      }
+    }
+  }
+  
