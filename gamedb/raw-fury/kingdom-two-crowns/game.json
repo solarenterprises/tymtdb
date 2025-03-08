@@ -1,0 +1,24 @@
+{
+    "_id": "kingdom-two-crowns",
+    "name": "Kingdom Two Crowns",
+    "short_description": "A side-scrolling micro-strategy game with a stunning pixel-art world.",
+    "description": "In Kingdom Two Crowns, players must work to build their kingdom and defend it from the mysterious Greed. Play solo or in cooperative multiplayer, expand your lands, and discover hidden secrets.",
+    "tags": ["Strategy", "Pixel Art", "Co-op", "Side-Scrolling"],
+    "price": 0.00,
+    "dlcs": [],
+    "updates": [],
+    "platforms": {
+      "windows_amd64": {
+        "name": "Kingdom Two Crowns",
+        "executable": "KingdomTwoCrowns.exe",
+        "installSize": "1.2GB",
+        "external_url": "magnet:?xt=null"
+      }
+    },
+    "system_requirements": {
+      "cpu": "Intel Core i3 or equivalent",
+      "gpu": "Intel HD 4000 / GeForce GTX 660 / Radeon R7 370",
+      "disk": "2GB+ free space",
+      "memory": "4GB RAM"
+    }
+  }
